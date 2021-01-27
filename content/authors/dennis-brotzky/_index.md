@@ -1,8 +1,8 @@
 ---
 title: Avnish
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+bio: 'I''m Avnish. I am a student, developer and writer.
+
+'
 avatar: "/images/capture.PNG"
 featured: true
 social:
