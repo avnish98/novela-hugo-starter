@@ -1,5 +1,5 @@
 +++
-authors = ["Avnish"]
+authors = ["Avnish Pal"]
 date = 2021-01-26T18:30:00Z
 excerpt = "How to get most out of whatever you read."
 hero = "/images/0_hpi1qlhw_gsoi3ev.jfif"
