@@ -12,9 +12,5 @@ social:
   url: https://github.com/avnish98
 - title: linkedin
   url: https://linkedin.com/in/avnish-pal
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
 
 ---
