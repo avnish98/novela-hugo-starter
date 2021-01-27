@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: My Dev Blog
+  heading: Developer Blog
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
