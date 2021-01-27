@@ -6,8 +6,8 @@ bio: |
 avatar: "/images/capture.PNG"
 featured: true
 social:
-- title: unsplash
-  url: https://unsplash.com
+- title: medium
+  url: https://medium.com/@avnish98
 - title: github
   url: https://github.com
 - title: github
