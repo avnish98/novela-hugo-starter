@@ -2,7 +2,7 @@
 authors = ["Avnish"]
 date = 2021-01-26T23:30:00Z
 excerpt = "“Deep Work” is a book by Cal Newport, a computer science professor at Georgetown University. This book focuses mostly on pushing your cognitive abilities to their limit and producing work that is difficult to replicate."
-hero = "/images/aaron-burden-xg8iqmqmitm-unsplash.jpg"
+hero = "/images/yannick-pulver-hopx_jpvtrm-unsplash.jpg"
 timeToRead = 5
 title = "Takeaways from Deep Work by Cal Newport"
 
