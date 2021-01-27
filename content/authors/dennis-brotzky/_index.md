@@ -9,7 +9,7 @@ social:
 - title: medium
   url: https://medium.com/@avnish98
 - title: github
-  url: https://github.com
+  url: https://github.com/avnish98
 - title: github
   url: https://github.com
 - title: github
