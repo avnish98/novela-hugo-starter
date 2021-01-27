@@ -6,8 +6,6 @@ bio: 'I''m Avnish. I am a student, developer and writer.
 avatar: "/images/capture.PNG"
 featured: true
 social:
-- title: resume
-  url: https://drive.google.com/file/d/14Kr4_0v3HAYLuqGKDK2bJGIBit7ovV6b/view?usp=sharing
 - title: medium
   url: https://medium.com/@avnish98
 - title: github
