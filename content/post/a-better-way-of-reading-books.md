@@ -25,7 +25,7 @@ We search for tips and tricks to read faster. So that we can finish up our goal 
 
 These might help you match Bill Gates’s tally maybe even surpass it. But the value you get from those books wouldn’t be optimal.
 
-# A better way of reading
+## A better way of reading
 
 What I am proposing in this article is a better way of reading. A way in which you get most out of whatever you read.
 
@@ -45,7 +45,7 @@ You don’t even have to read every book cover to cover. The time you save in th
 
 The idea here is to allocate more time to books that give you the most value. Rather than allocating equal time and attention to every book.
 
-# Drawbacks of using “hacks” for reading fast
+## Drawbacks of using “hacks” for reading fast
 
 As I said earlier everyone has the objective of reading every book. But when you try to finish it as fast as you could you might not get the full value out of it hence not reaching your objective for the book. Every page you turn will be one of the 25000 pages you’ve turned this year.
 
@@ -55,27 +55,27 @@ Instead of increasing the rate of page-turning, cultivate the skill of time allo
 
 Reading is a habit built over consistency. When you would’ve cultivated that you’ll get most out of every book you read.
 
-# How to cultivate the habit of reading
+## How to cultivate the habit of reading
 
 Like every skill reading also needs consistent practice.
 
-## **List out your objectives of reading the book**
+### List out your objectives of reading the book
 
 You can list these wherever you are making notes or make it as a post-it note and stick into the initial pages of the book. You can even list them on your bookmark.
 
-## **Read almost every day**
+### Read almost every day
 
 As James Clear advocates in his book Atomic Habits. To build a good habit you have to practice it on a consistent basis. Even the days when you don’t feel like reading you can read just 1–2 pages and call it a day. But, make sure you get the most out of whatever you read.
 
-## **Diversify**
+### Diversify
 
 Try out books from different genres. If you stick to one genre it might get boring after a while. Trying out books from the fiction genre could save you from boredom.
 
-## **Join community**
+### Join community
 
 A community doesn’t necessarily mean book clubs. You can just be 2 friends discussing what you’ve read. You might end up with nice recommendations for your read list from the community.
 
-## **Read Often**
+### Read Often
 
 Instead of checking social media in your free time, you can read more. You have to remove friction from the reading process. To do that you can have your eReader app on the home screen.
 
