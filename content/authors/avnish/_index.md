@@ -14,6 +14,5 @@ social:
   url: https://github.com/avnish98
 - title: linkedin
   url: https://linkedin.com/in/avnish-pal
-draft: true
 
 ---
