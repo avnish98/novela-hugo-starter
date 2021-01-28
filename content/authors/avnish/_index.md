@@ -1,8 +1,7 @@
 ---
 title: Avnish
-bio: 'Hello, World. I am machine learning scientist at Taiyo AI and engineering student
-  specializing in information technology. My interests are machine learning and mathematics.
-  I publish articles on Medium.com and on my blog, themed mostly on mathematics.
+bio: 'Hello, World. I am a developer, student and a writer. I publish articles on
+  maths, ML, CS, Statistics and Productivity.
 
 '
 avatar: "/images/capture.PNG"
