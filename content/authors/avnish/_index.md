@@ -7,7 +7,7 @@ avatar: "/images/capture.PNG"
 featured: true
 social:
 - title: dribbble
-  url: https://drive.google.com/file/d/14Kr4_0v3HAYLuqGKDK2bJGIBit7ovV6b/view?usp=sharing
+  url: resume4.pdf
 - title: medium
   url: https://medium.com/@avnish98
 - title: github
